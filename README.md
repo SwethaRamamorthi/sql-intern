@@ -1,12 +1,12 @@
 Entities and Relationships:
 1)Entities:
-Customer
-Product
-Category
-Order
-OrderItem
-Payment
-Shipment
+Customer,
+Product,
+Category,
+Order,
+OrderItem,
+Payment,
+Shipment,
 
 2)Relationships:
 A Customer can place many Orders.
